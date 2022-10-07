@@ -4,3 +4,7 @@ git add
 git commit -m "Commentaire" "Nom du fichier" 
 git push -u origin main
 MODIFICATION
+
+git branch "nom de la branche"
+git checkout 'nom de la branche"
+
